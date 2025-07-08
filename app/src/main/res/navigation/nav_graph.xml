@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/firstFragment">
+
+    <fragment
+        android:id="@+id/firstFragment"
+        android:name="com.yerali.navigation.firstFragment"
+        android:label="fragment_first"
+        tools:layout="@layout/fragment_first" >
+        <action
+            android:id="@+id/action_firstFragment_to_correct"
+            app:destination="@id/correct" />
+        <action
+            android:id="@+id/action_firstFragment_to_incorrect"
+            app:destination="@id/incorrect" />
+    </fragment>
+    <fragment
+        android:id="@+id/correct"
+        android:name="com.yerali.navigation.correct"
+        android:label="fragment_correct"
+        tools:layout="@layout/fragment_correct" >
+        <action
+            android:id="@+id/action_correct_to_firstFragment"
+            app:destination="@id/firstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/incorrect"
+        android:name="com.yerali.navigation.incorrect"
+        android:label="fragment_incorrect"
+        tools:layout="@layout/fragment_incorrect" >
+        <action
+            android:id="@+id/action_incorrect_to_firstFragment"
+            app:destination="@id/firstFragment" />
+    </fragment>
+</navigation>
