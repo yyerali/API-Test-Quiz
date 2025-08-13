@@ -3341,7 +3341,6 @@ id easeInOut
 id easeOut
 id east
 id edge
-id editTextText
 id edit_query
 id edit_text_id
 id elastic
@@ -3354,7 +3353,6 @@ id escape
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fact
 id fade
 id fill
 id fill_horizontal
@@ -3375,6 +3373,7 @@ id frost
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
+id glide_custom_view_target_tag
 id gone
 id graph
 id graph_wrap
@@ -3395,6 +3394,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imagesrc
 id immediateStop
 id included
 id incorrect
@@ -3545,6 +3545,7 @@ id progress_title
 id radio
 id ratio
 id rectangles
+id recyclerView
 id report_drawn
 id reverseSawtooth
 id right
@@ -3641,6 +3642,7 @@ id textTop
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
+id textimage
 id textinput_counter
 id textinput_error
 id textinput_helper_text
@@ -3825,9 +3827,9 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dynamic_feature_install_fragment
-layout fragment_correct
+layout example_adapter
 layout fragment_first
-layout fragment_incorrect
+layout fragment_recycler_adapter
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout m3_alert_dialog

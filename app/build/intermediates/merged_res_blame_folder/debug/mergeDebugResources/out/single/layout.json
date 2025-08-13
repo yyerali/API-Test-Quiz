@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-52:\\layout\\fragment_first.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-55:\\layout\\fragment_first.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-53:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\layout\\fragment_first.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-52:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-55:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-53:\\layout\\example_adapter.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\layout\\example_adapter.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-52:\\layout\\fragment_incorrect.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-55:\\layout\\fragment_incorrect.xml"
+        "merged": "com.yerali.navigation.app-mergeDebugResources-53:/layout/example_adapter.xml",
+        "source": "com.yerali.navigation.app-main-56:/layout/example_adapter.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-52:\\layout\\fragment_second.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-55:\\layout\\fragment_second.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-53:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-52:\\layout\\fragment_correct.xml",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-55:\\layout\\fragment_correct.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-mergeDebugResources-53:\\layout\\fragment_recycler_adapter.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\layout\\fragment_recycler_adapter.xml"
     },
     {
-        "merged": "com.yerali.navigation.app-mergeDebugResources-52:/layout/fragment_first.xml",
-        "source": "com.yerali.navigation.app-main-55:/layout/fragment_first.xml"
+        "merged": "com.yerali.navigation.app-mergeDebugResources-53:/layout/fragment_first.xml",
+        "source": "com.yerali.navigation.app-main-56:/layout/fragment_first.xml"
     }
 ]
