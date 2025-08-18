@@ -12,20 +12,12 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.yerali.navigation.app-debug-54:/layout_example_adapter.xml.flat",
-        "source": "com.yerali.navigation.app-main-56:/layout/example_adapter.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-debug-54:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-debug-54:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "com.yerali.navigation.app-debug-54:/layout_fragment_first.xml.flat",
-        "source": "com.yerali.navigation.app-main-56:/layout/fragment_first.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-debug-54:\\layout_fragment_first.xml.flat",
@@ -58,6 +50,10 @@
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-debug-54:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-main-56:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yerali.navigation.app-debug-54:/layout_fragment_recycler_adapter.xml.flat",
+        "source": "com.yerali.navigation.app-main-56:/layout/fragment_recycler_adapter.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.10.2\\com.yerali.navigation.app-debug-54:\\layout_activity_main.xml.flat",
