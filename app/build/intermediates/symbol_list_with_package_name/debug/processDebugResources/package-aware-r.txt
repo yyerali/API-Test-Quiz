@@ -3156,6 +3156,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable temp
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3395,6 +3396,7 @@ id ignore
 id ignoreRequest
 id image
 id imagesrc
+id img
 id immediateStop
 id included
 id incorrect
@@ -3575,6 +3577,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id secondFragment
 id select_dialog_listview
 id selected
 id selection_type
@@ -3649,6 +3652,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id texttext
 id time
 id title
 id titleDividerNoCustom
@@ -3830,6 +3834,7 @@ layout dynamic_feature_install_fragment
 layout example_adapter
 layout fragment_first
 layout fragment_recycler_adapter
+layout fragment_second
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout m3_alert_dialog

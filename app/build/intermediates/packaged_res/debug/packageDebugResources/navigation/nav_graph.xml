@@ -35,4 +35,9 @@
             android:id="@+id/action_incorrect_to_firstFragment"
             app:destination="@id/firstFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.yerali.navigation.data.secondFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_second" />
 </navigation>
